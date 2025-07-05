@@ -1,0 +1,70 @@
+{
+    "RN1029": {
+        "name": "Gold ring",
+        "metal": "Gold",
+        "purity": "22K",
+        "making_charge": 500.0,
+        "gst_percent": 3.0,
+        "stock_gm": 1.0
+    },
+    "GC01098": {
+        "name": "Gold chain",
+        "metal": "Gold",
+        "purity": "24K",
+        "making_charge": 500.0,
+        "gst_percent": 3.0,
+        "stock_gm": 1.0,
+        "gross_weight": 5.0,
+        "net_weight": 4.0
+    },
+    "RG156": {
+        "name": "Ring",
+        "metal": "Gold",
+        "purity": "24K",
+        "making_charge": 500.0,
+        "gst_percent": 3.0,
+        "stock_gm": 1.0,
+        "gross_weight": 3.2,
+        "net_weight": 4.0
+    },
+    "RG1234": {
+        "name": "Gold ring",
+        "metal": "Gold",
+        "purity": "24K",
+        "making_charge": 500.0,
+        "gst_percent": 3.0,
+        "stock_gm": 1.0,
+        "gross_weight": 4.0,
+        "net_weight": 4.0
+    },
+    "RC23456": {
+        "name": "Chain",
+        "metal": "Silver",
+        "purity": "24K",
+        "making_charge": 300.0,
+        "gst_percent": 3.0,
+        "stock_gm": 1.0,
+        "gross_weight": 4.0,
+        "net_weight": 4.0
+    },
+    "GM6789": {
+        "name": "Mangalsutar",
+        "metal": "Gold",
+        "purity": "24K",
+        "making_charge": 300.0,
+        "gst_percent": 3.0,
+        "stock_gm": 1.0,
+        "gross_weight": 4.0,
+        "net_weight": 5.0
+    },
+    "GK876": {
+        "name": "Gold Kada",
+        "metal": "Gold",
+        "purity": "24K",
+        "making_charge": 200.0,
+        "gst_percent": 3.0,
+        "stock_gm": 1.0,
+        "gross_weight": 5.0,
+        "net_weight": 5.0
+    }
+}
